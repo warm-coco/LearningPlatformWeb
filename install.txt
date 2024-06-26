@@ -1,0 +1,15 @@
+1.Eslint依赖
+npm uninstall eslint-plugin-vue //清除高版本
+npm install eslint-plugin-vue@^7.0.0 --save-dev //使用低版本适配
+
+3.加载所有依赖
+npm install
+
+2.Echarts依赖
+npm install echarts
+
+3.Element-ui
+npm install element-ui
+
+4.粒子特效依赖
+npm install vue-particles
